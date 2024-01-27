@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Simple Present",
+        "description": "Describes a habitual action, general truth, or a permanent situation.",
+        "example": "She walks to school."
+    },
+    {
+        "id": 2,
+        "name": "Present Continuous",
+        "description": "Indicates an ongoing action happening at the moment of speaking.",
+        "example": "He is reading a book now."
+    },
+    {
+        "id": 7,
+        "name": "Present Perfect",
+        "description": "Describes an action that happened at an unspecified time before now.",
+        "example": "They have visited Paris."
+    },
+    {
+        "id": 8,
+        "name": "Present Perfect Continuous",
+        "description": "Indicates an action that started in the past and is continuing in the present.",
+        "example": "She has been studying for two hours."
+    },
+    {
+        "id": 3,
+        "name": "Simple Past",
+        "description": "Used for actions that happened at a specific time in the past.",
+        "example": "They traveled to Japan last year."
+    },
+    {
+        "id": 4,
+        "name": "Past Continuous",
+        "description": "Describes an action that was happening at a certain time in the past.",
+        "example": "She was watching TV when I called her."
+    },
+    {
+        "id": 9,
+        "name": "Past Perfect",
+        "description": "Used to talk about an action that was completed before another action took place in the past.",
+        "example": "They had finished the project before the deadline."
+    },
+    {
+        "id": 10,
+        "name": "Past Perfect Continuous",
+        "description": "Describes an action that was ongoing in the past and was completed before another action.",
+        "example": "He had been reading the book for a week when it was due."
+    },
+    {
+        "id": 5,
+        "name": "Simple Future",
+        "description": "Indicates an action that will happen in the future.",
+        "example": "I will go to the grocery store tomorrow."
+    },
+    {
+        "id": 6,
+        "name": "Future Continuous",
+        "description": "Used for an action that will be happening at a specific time in the future.",
+        "example": "He will be working all night."
+    },
+    {
+        "id": 11,
+        "name": "Future Perfect",
+        "description": "Indicates an action that will be completed before a specific time in the future.",
+        "example": "By next month, I will have finished this course."
+    },
+    {
+        "id": 12,
+        "name": "Future Perfect Continuous",
+        "description": "Used to describe an ongoing action that will be completed at some specific point in the future.",
+        "example": "By next year, she will have been working here for five years."
+    }
+]
